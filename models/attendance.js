@@ -10,9 +10,6 @@ const AttendanceSchema = new Schema({
   decision: {
     type: String
   },
-  multiplier: {
-    type: Number
-  },
   event: {
     type: Schema.Types.ObjectId,
     ref: 'event'
