@@ -1,0 +1,22 @@
+{
+  "name": "has-hackaton-wtf2eat",
+  "version": "1.0.0",
+  "description": "has-hackaton-wtf2eat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanCJJ/has-hackaton-wtf2eat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanCJJ/has-hackaton-wtf2eat/issues"
+  },
+  "homepage": "https://github.com/AlanCJJ/has-hackaton-wtf2eat#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
